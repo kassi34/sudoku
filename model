@@ -1,1 +1,15 @@
-uu jee
+package sudoku
+
+class Game {
+  
+  def generateSolution = ???
+  
+  def getNextPossibleNumber = ???
+  
+  def generateGame = ???
+  
+  def isValid = ???
+  
+  def checkGame = ???
+  
+}
